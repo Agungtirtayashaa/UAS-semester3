@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_main" type="id" />
+    <item name="buttonScan" type="id" />
+    <item name="textViewNama" type="id" />
+    <item name="textViewTinggi" type="id" />
+</resources>
